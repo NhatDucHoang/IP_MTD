@@ -1,0 +1,2 @@
+The .NET framework 4.7.2 must be installed.
+The image format is .bmp.
